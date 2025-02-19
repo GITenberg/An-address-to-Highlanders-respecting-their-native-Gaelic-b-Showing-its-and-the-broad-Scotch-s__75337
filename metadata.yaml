@@ -1,0 +1,29 @@
+_repo: An-address-to-Highlanders-respecting-their-native-Gaelic-b-Showing-its-and-the-broad-Scotch-s__75337
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farquharson, Archibald
+    gutenberg_agent_id: '57955'
+    url: http://www.gutenberg.org/2009/agents/57955
+description: ''
+gutenberg_issued: '2025-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75337'
+language: en
+pgterms:marc904: https://archive.org/details/addresstohighlan00farq/mode/2up
+pgterms:marc905: 20240714042005farquharso
+pgterms:marc906: '1868'
+pgterms:marc907: GB
+production_note: Mairi and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (National Library of Scotland)
+publication_note: '  $aEdinburgh :$bMaclachlan and Stewart, $c1868.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'An address to Highlanders respecting their native Gaelic : $b Showing its
+  and the broad Scotch''s superiority over the artificial English for the family and
+  the social circle, and also for lyric poetry.'
+url: http://www.gutenberg.org/ebooks/75337
