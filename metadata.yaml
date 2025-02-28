@@ -1,11 +1,16 @@
 _repo: An-address-to-Highlanders-respecting-their-native-Gaelic-b-Showing-its-and-the-broad-Scotch-s__75337
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75337-h/images/cover.jpg
 creator:
   author:
     agent_name: Farquharson, Archibald
     gutenberg_agent_id: '57955'
     url: http://www.gutenberg.org/2009/agents/57955
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75337#An-address-to-Highlanders-respecting-their-native-Gaelic-b-Showing-its-and-the-broad-Scotch-s_
 gutenberg_issued: '2025-02-10'
 gutenberg_type: Text
 identifiers:
